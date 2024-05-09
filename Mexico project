@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <title>
+     mexico
+    </title>
+  </head>
+  <body bgcolor=red>
+    <h1 align=center>mexico
+    </h1>
+    <p align=center><img src=usa.jfif></p>
+    <p align=center><img src=map.png></p>
+    <h2>Culture</h2>
+    <iframe width="560" height="315" src="https:https://www.youtube.com/watch?v=xWdO66UMz64t; title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+     <h2>Food</h2>
+    <iframe width="560" height="315" src="https:https://www.youtube.com/watch?v=1zr_ZRPmVxI; title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <h2>Landmarks</h2>
+    <iframe width="560" height="315" src="https://https://www.youtube.com/watch?v=RjvOKZAONfw; title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ </body>
+</html>
